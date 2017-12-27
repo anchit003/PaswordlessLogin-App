@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_profile_empty.png",
+        "source": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\src\\main\\res\\drawable-xhdpi\\icon_profile_empty.png"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_wave.png",
+        "source": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\src\\main\\res\\drawable-xhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_surf_connect.png",
+        "source": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\src\\main\\res\\drawable-xhdpi\\logo_surf_connect.png"
+    }
+]

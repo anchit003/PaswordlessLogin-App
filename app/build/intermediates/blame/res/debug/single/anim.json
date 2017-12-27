@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\com_accountkit_progress_complete_circle_anim.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\anim\\com_accountkit_progress_complete_circle_anim.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\95e40854c54a46cfe45fa1b30bf02caf62a54ed1\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\com_accountkit_progress_complete_check_anim.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\anim\\com_accountkit_progress_complete_check_anim.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\anim\\tooltip_enter.xml"
+    }
+]

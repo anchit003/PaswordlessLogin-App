@@ -1,0 +1,2232 @@
+[
+    {
+        "outputFile": "E:\\facebook-account-kit-android-master\\lesson3\\FacebookLoginSolution\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 238,
+                    "endColumn": 19,
+                    "endOffset": 9107
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 238,
+                        "endColumn": 19,
+                        "endOffset": 9057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9112,
+                    "endColumn": 106,
+                    "endOffset": 9214
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 106,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 9219,
+                    "endColumn": 99,
+                    "endOffset": 9314
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 99,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 9319,
+                    "endColumn": 110,
+                    "endOffset": 9425
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 110,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 9430,
+                    "endColumn": 85,
+                    "endOffset": 9511
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 85,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 9516,
+                    "endColumn": 107,
+                    "endOffset": 9619
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 107,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 9624,
+                    "endColumn": 117,
+                    "endOffset": 9737
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 117,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 9742,
+                    "endColumn": 80,
+                    "endOffset": 9818
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 80,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 9823,
+                    "endColumn": 80,
+                    "endOffset": 9899
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 80,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 9904,
+                    "endColumn": 83,
+                    "endOffset": 9983
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 83,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 9988,
+                    "endColumn": 104,
+                    "endOffset": 10088
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 104,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10093,
+                    "endColumn": 108,
+                    "endOffset": 10197
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 108,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10202,
+                    "endColumn": 98,
+                    "endOffset": 10296
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 98,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10301,
+                    "endColumn": 105,
+                    "endOffset": 10402
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 105,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10407,
+                    "endColumn": 110,
+                    "endOffset": 10513
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 110,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 10518,
+                    "endColumn": 108,
+                    "endOffset": 10622
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endColumn": 108,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 10627,
+                    "endColumn": 165,
+                    "endOffset": 10788
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 165,
+                        "endOffset": 1781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10793,
+                    "endColumn": 97,
+                    "endOffset": 10886
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1786,
+                        "endColumn": 97,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 10891,
+                    "endColumn": 93,
+                    "endOffset": 10980
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 9062,
+                        "endColumn": 93,
+                        "endOffset": 9151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 10985,
+                    "endColumn": 78,
+                    "endOffset": 11059
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 9156,
+                        "endColumn": 78,
+                        "endOffset": 9230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 11064,
+                    "endColumn": 80,
+                    "endOffset": 11140
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 9235,
+                        "endColumn": 80,
+                        "endOffset": 9311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 11145,
+                    "endColumn": 83,
+                    "endOffset": 11224
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 9316,
+                        "endColumn": 83,
+                        "endOffset": 9395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 11229,
+                    "endColumn": 86,
+                    "endOffset": 11311
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 9400,
+                        "endColumn": 86,
+                        "endOffset": 9482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 11316,
+                    "endColumn": 79,
+                    "endOffset": 11391
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 9487,
+                        "endColumn": 79,
+                        "endOffset": 9562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 11396,
+                    "endColumn": 86,
+                    "endOffset": 11478
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 9567,
+                        "endColumn": 86,
+                        "endOffset": 9649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 11483,
+                    "endColumn": 77,
+                    "endOffset": 11556
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 9654,
+                        "endColumn": 77,
+                        "endOffset": 9727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 11561,
+                    "endColumn": 105,
+                    "endOffset": 11662
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 9732,
+                        "endColumn": 105,
+                        "endOffset": 9833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 11667,
+                    "endColumn": 94,
+                    "endOffset": 11757
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 9838,
+                        "endColumn": 94,
+                        "endOffset": 9928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 11762,
+                    "endColumn": 78,
+                    "endOffset": 11836
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 9933,
+                        "endColumn": 78,
+                        "endOffset": 10007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 11841,
+                    "endColumn": 107,
+                    "endOffset": 11944
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 10012,
+                        "endColumn": 107,
+                        "endOffset": 10115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 11949,
+                    "endColumn": 128,
+                    "endOffset": 12073
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 10120,
+                        "endColumn": 128,
+                        "endOffset": 10244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 12078,
+                    "endColumn": 155,
+                    "endOffset": 12229
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 10249,
+                        "endColumn": 155,
+                        "endOffset": 10400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 12234,
+                    "endColumn": 106,
+                    "endOffset": 12336
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 4,
+                        "startOffset": 10405,
+                        "endColumn": 106,
+                        "endOffset": 10507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 12341,
+                    "endColumn": 137,
+                    "endOffset": 12474
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 10512,
+                        "endColumn": 137,
+                        "endOffset": 10645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 12479,
+                    "endColumn": 78,
+                    "endOffset": 12553
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 10650,
+                        "endColumn": 78,
+                        "endOffset": 10724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 12558,
+                    "endColumn": 90,
+                    "endOffset": 12644
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 10729,
+                        "endColumn": 90,
+                        "endOffset": 10815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 12649,
+                    "endColumn": 81,
+                    "endOffset": 12726
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 10820,
+                        "endColumn": 81,
+                        "endOffset": 10897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 12731,
+                    "endColumn": 91,
+                    "endOffset": 12818
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 10902,
+                        "endColumn": 91,
+                        "endOffset": 10989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 12823,
+                    "endColumn": 104,
+                    "endOffset": 12923
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 10994,
+                        "endColumn": 104,
+                        "endOffset": 11094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 12928,
+                    "endColumn": 260,
+                    "endOffset": 13184
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 11099,
+                        "endColumn": 260,
+                        "endOffset": 11355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 13189,
+                    "endColumn": 343,
+                    "endOffset": 13528
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 11360,
+                        "endColumn": 343,
+                        "endOffset": 11699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 13533,
+                    "endColumn": 395,
+                    "endOffset": 13924
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 11704,
+                        "endColumn": 395,
+                        "endOffset": 12095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 13929,
+                    "endColumn": 491,
+                    "endOffset": 14416
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 12100,
+                        "endColumn": 491,
+                        "endOffset": 12587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 14421,
+                    "endColumn": 438,
+                    "endOffset": 14855
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 12592,
+                        "endColumn": 438,
+                        "endOffset": 13026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 14860,
+                    "endColumn": 356,
+                    "endOffset": 15212
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 13031,
+                        "endColumn": 356,
+                        "endOffset": 13383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 15217,
+                    "endColumn": 99,
+                    "endOffset": 15312
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 13388,
+                        "endColumn": 99,
+                        "endOffset": 13483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 15317,
+                    "endColumn": 100,
+                    "endOffset": 15413
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 13488,
+                        "endColumn": 100,
+                        "endOffset": 13584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 15418,
+                    "endColumn": 123,
+                    "endOffset": 15537
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 13589,
+                        "endColumn": 123,
+                        "endOffset": 13708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 15542,
+                    "endColumn": 113,
+                    "endOffset": 15651
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 13713,
+                        "endColumn": 113,
+                        "endOffset": 13822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 15656,
+                    "endColumn": 115,
+                    "endOffset": 15767
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 13827,
+                        "endColumn": 115,
+                        "endOffset": 13938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 15772,
+                    "endColumn": 322,
+                    "endOffset": 16090
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 13943,
+                        "endColumn": 322,
+                        "endOffset": 14261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 16095,
+                    "endColumn": 108,
+                    "endOffset": 16199
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 14266,
+                        "endColumn": 108,
+                        "endOffset": 14370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 16204,
+                    "endColumn": 98,
+                    "endOffset": 16298
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 14375,
+                        "endColumn": 98,
+                        "endOffset": 14469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 16303,
+                    "endColumn": 127,
+                    "endOffset": 16426
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 14474,
+                        "endColumn": 127,
+                        "endOffset": 14597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 16431,
+                    "endColumn": 117,
+                    "endOffset": 16544
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 14602,
+                        "endColumn": 117,
+                        "endOffset": 14715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 16549,
+                    "endColumn": 119,
+                    "endOffset": 16664
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 14720,
+                        "endColumn": 119,
+                        "endOffset": 14835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 16669,
+                    "endColumn": 114,
+                    "endOffset": 16779
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 14840,
+                        "endColumn": 114,
+                        "endOffset": 14950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 16784,
+                    "endColumn": 87,
+                    "endOffset": 16867
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 14955,
+                        "endColumn": 87,
+                        "endOffset": 15038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 16872,
+                    "endColumn": 109,
+                    "endOffset": 16977
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 15043,
+                        "endColumn": 109,
+                        "endOffset": 15148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 16982,
+                    "endColumn": 107,
+                    "endOffset": 17085
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 15153,
+                        "endColumn": 107,
+                        "endOffset": 15256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 17090,
+                    "endColumn": 102,
+                    "endOffset": 17188
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 15261,
+                        "endColumn": 102,
+                        "endOffset": 15359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 17193,
+                    "endColumn": 112,
+                    "endOffset": 17301
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 15364,
+                        "endColumn": 112,
+                        "endOffset": 15472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 17306,
+                    "endColumn": 404,
+                    "endOffset": 17706
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 15477,
+                        "endColumn": 404,
+                        "endOffset": 15877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 17711,
+                    "endColumn": 105,
+                    "endOffset": 17812
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 15882,
+                        "endColumn": 105,
+                        "endOffset": 15983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 17817,
+                    "endColumn": 119,
+                    "endOffset": 17932
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 15988,
+                        "endColumn": 119,
+                        "endOffset": 16103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 17937,
+                    "endColumn": 100,
+                    "endOffset": 18033
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 16108,
+                        "endColumn": 100,
+                        "endOffset": 16204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 18038,
+                    "endColumn": 96,
+                    "endOffset": 18130
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 16209,
+                        "endColumn": 96,
+                        "endOffset": 16301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 18135,
+                    "endColumn": 94,
+                    "endOffset": 18225
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 16306,
+                        "endColumn": 94,
+                        "endOffset": 16396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 18230,
+                    "endColumn": 108,
+                    "endOffset": 18334
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 16401,
+                        "endColumn": 108,
+                        "endOffset": 16505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 18339,
+                    "endColumn": 79,
+                    "endOffset": 18414
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 16510,
+                        "endColumn": 79,
+                        "endOffset": 16585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 18419,
+                    "endColumn": 82,
+                    "endOffset": 18497
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 16590,
+                        "endColumn": 82,
+                        "endOffset": 16668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 18502,
+                    "endColumn": 104,
+                    "endOffset": 18602
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 16673,
+                        "endColumn": 104,
+                        "endOffset": 16773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 18607,
+                    "endColumn": 137,
+                    "endOffset": 18740
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 16778,
+                        "endColumn": 137,
+                        "endOffset": 16911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 18745,
+                    "endColumn": 92,
+                    "endOffset": 18833
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 16916,
+                        "endColumn": 92,
+                        "endOffset": 17004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 18838,
+                    "endColumn": 123,
+                    "endOffset": 18957
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\d3b573683363d95cb4025db1593432fa2a48ef5f\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 17009,
+                        "endColumn": 123,
+                        "endOffset": 17128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18962,
+                    "endColumn": 165,
+                    "endOffset": 19123
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 165,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 19128,
+                    "endColumn": 139,
+                    "endOffset": 19263
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 139,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 19268,
+                    "endColumn": 150,
+                    "endOffset": 19414
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 361,
+                        "endColumn": 150,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 19419,
+                    "endColumn": 111,
+                    "endOffset": 19526
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 111,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 19531,
+                    "endColumn": 91,
+                    "endOffset": 19618
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 91,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 19623,
+                    "endColumn": 93,
+                    "endOffset": 19712
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 93,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 19717,
+                    "endColumn": 78,
+                    "endOffset": 19791
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 78,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19796,
+                    "endColumn": 88,
+                    "endOffset": 19880
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 88,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 19885,
+                    "endColumn": 94,
+                    "endOffset": 19975
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 94,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19980,
+                    "endColumn": 114,
+                    "endOffset": 20090
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 114,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 20095,
+                    "endColumn": 112,
+                    "endOffset": 20203
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 112,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 20208,
+                    "endColumn": 94,
+                    "endOffset": 20298
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 94,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 20303,
+                    "endColumn": 94,
+                    "endOffset": 20393
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 94,
+                        "endOffset": 1486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 20398,
+                    "endColumn": 104,
+                    "endOffset": 20498
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1491,
+                        "endColumn": 104,
+                        "endOffset": 1591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 20503,
+                    "endColumn": 119,
+                    "endOffset": 20618
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1596,
+                        "endColumn": 119,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 20623,
+                    "endColumn": 81,
+                    "endOffset": 20700
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1716,
+                        "endColumn": 81,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 20705,
+                    "endColumn": 83,
+                    "endOffset": 20784
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 83,
+                        "endOffset": 1877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 20789,
+                    "endColumn": 193,
+                    "endOffset": 20978
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1882,
+                        "endColumn": 193,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 20983,
+                    "endColumn": 96,
+                    "endOffset": 21075
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2076,
+                        "endColumn": 96,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 21080,
+                    "endColumn": 104,
+                    "endOffset": 21180
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 104,
+                        "endOffset": 2273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 21185,
+                    "endColumn": 114,
+                    "endOffset": 21295
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2278,
+                        "endColumn": 114,
+                        "endOffset": 2388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 21300,
+                    "endColumn": 109,
+                    "endOffset": 21405
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2393,
+                        "endColumn": 109,
+                        "endOffset": 2498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 21410,
+                    "endColumn": 156,
+                    "endOffset": 21562
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8b8cd341dbb8fbc6603d84cf42e5fab2dca6f4\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2503,
+                        "endColumn": 156,
+                        "endOffset": 2655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 21567,
+                    "endColumn": 107,
+                    "endOffset": 21670
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 103,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 21675,
+                    "endColumn": 191,
+                    "endOffset": 21862
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 387,
+                        "endColumn": 191,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 21867,
+                    "endColumn": 125,
+                    "endOffset": 21988
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 579,
+                        "endColumn": 121,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 21993,
+                    "endColumn": 111,
+                    "endOffset": 22100
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 701,
+                        "endColumn": 107,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 22105,
+                    "endColumn": 214,
+                    "endOffset": 22315
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 809,
+                        "endColumn": 214,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 22320,
+                    "endColumn": 129,
+                    "endOffset": 22445
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1024,
+                        "endColumn": 125,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 22450,
+                    "endColumn": 130,
+                    "endOffset": 22576
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1150,
+                        "endColumn": 126,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 22581,
+                    "endColumn": 197,
+                    "endOffset": 22774
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\a35c9d90cd6d51892ac178c89be1828eab4794bf\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 197,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 22779,
+                    "endColumn": 227,
+                    "endOffset": 23002
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1277,
+                        "endColumn": 227,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 23007,
+                    "endColumn": 112,
+                    "endOffset": 23115
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1505,
+                        "endColumn": 108,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 23120,
+                    "endColumn": 200,
+                    "endOffset": 23316
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1614,
+                        "endColumn": 200,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 23321,
+                    "endColumn": 131,
+                    "endOffset": 23448
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1815,
+                        "endColumn": 127,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 23453,
+                    "endColumn": 221,
+                    "endOffset": 23670
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1943,
+                        "endColumn": 221,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 23675,
+                    "endColumn": 193,
+                    "endOffset": 23864
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2165,
+                        "endColumn": 189,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 23869,
+                    "endColumn": 97,
+                    "endOffset": 23962
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2355,
+                        "endColumn": 93,
+                        "endOffset": 2448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 23967,
+                    "endColumn": 96,
+                    "endOffset": 24059
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2449,
+                        "endColumn": 92,
+                        "endOffset": 2541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 24064,
+                    "endColumn": 115,
+                    "endOffset": 24175
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\1b8e462c677d32ab1bba78cb1eb743f547ac7887\\output\\res\\values-sk\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2542,
+                        "endColumn": 111,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 24180,
+                    "endColumn": 87,
+                    "endOffset": 24263
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\abfe5718fe6c7b5110d9344cd6a2266f1776f178\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1884,
+                        "endColumn": 87,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 24268,
+                    "endColumn": 100,
+                    "endOffset": 24364
+                },
+                "from": {
+                    "file": "C:\\Users\\Anchit Chawla\\.android\\build-cache\\e845c3b095960000ec2148ab31f2eda3ce91190b\\output\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]
